@@ -55,7 +55,7 @@
 # print(total)
 
 #6#
-counts = [0, 0, 0, 0, 0]  
+'''counts = [0, 0, 0, 0, 0]  
 total_numbers = 0
 print("Enter numbers between 1 and 10 :")
 while True:
@@ -77,7 +77,7 @@ ranges = ["1-2", "3-4", "5-6", "7-8", "9-10"]
 for i in range(5):
     percentage = (counts[i] / total_numbers * 100) if total_numbers > 0 else 0.00
     hashes = "#" * counts[i]
-    print(f"{ranges[i]}:{hashes}{percentage:.2f}%")
+    print(f"{ranges[i]}:{hashes}{percentage:.2f}%")'''
 
 
 #7#
